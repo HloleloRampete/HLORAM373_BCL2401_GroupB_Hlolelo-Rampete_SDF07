@@ -1,18 +1,18 @@
 
 # Learning Reflections README 
 
-## **6.15 CodeSpace Pets Instagram Profile Project**
+## **6.15 Mobile APP Project**
 
 ### Overview
-
+For this project, I created a wed based app which is accessible throughh modile devices using HTML, CSS and JavaScript. This involved applying various CSS and JavaScript techniques to achieve a responsive and aesthetically pleasing app that has a database and functions well across different devices. 
 
 ### Reflections
 
 #### Areas of Mastery
 
-- **CSS Layout Techniques**: 
+- **JavaScript Functions**: I feel confident is creating and evoking functions
 - **Responsive Design**: 
-- **Styling Elements**: 
+- **Linking with HTML and Database**: 
 
 #### Challenges Faced
 
